@@ -1,2 +1,2 @@
 # Happiness by country.
-Compare data.
+See happiness compared across countries by 3 data points.
